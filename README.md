@@ -1,4 +1,5 @@
-run script in terminal 
+run script in terminal
+ 
 python petrolScraper.py
 
-it last approximately 1 minutes
+it last approximately 1 minute
